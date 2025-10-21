@@ -112,51 +112,52 @@ button:hover {
   color: white;
 }
 .card:hover {
-  background-image: url('../assets/Alipiri.jpeg');
+  background-image: url('Alipiri.jpeg');
  
   background-size: contain;
 
 }
 .card1:hover {
-  background-image: url('../assets/Goa-Nightlife.jpg');
+  background-image: url('Goa-Nightlife.jpg');
   
   background-size: contain;
 
 
 }
 .card2:hover {
-  background-image: url('../assets/manali.jpg');
+  background-image: url('manali.jpg');
   
   background-size: contain;
 
 }
 .card3:hover {
-  background-image: url('../assets/kerala.jpg');
+  background-image: url('kerala.jpg');
   
   background-size: contain;
 
 }
 .card4:hover {
-  background-image: url('../assets/rishikesh.jpg');
+  background-image: url('rishikesh.jpg');
   
   background-size: contain;
 
 }
 .card5:hover {
-  background-image: url('../assets/Taj_Mahal_\(Edited\).jpeg.webp');
+  background-image: url('Taj_Mahal_\(Edited\).jpeg.webp');
   
   background-size: contain;
 
 }
 .card6:hover {
-  background-image: url('../assets/jaipur.jpg');
+  background-image: url('jaipur.jpg');
   
   background-size: contain;
 
 }
 .card7:hover {
-  background-image: url('../assets/darjeeling.jpg');
+  background-image: url('darjeeling.jpg');
   
   background-size: contain;
 
 }
+
