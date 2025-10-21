@@ -1,0 +1,162 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.card {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+   width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+
+.card1 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+  width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: rgba(154, 154, 243, 0.574);
+}
+
+.card2 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+ width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: wheat;
+}
+.card3 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+  width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: rgb(243, 190, 190);
+}
+.card4 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+  width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: hsl(120, 100%, 75%);
+}
+.card5 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+  width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: hsla(120, 100%, 75%, 0.5);
+}
+.card6 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+   width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color:rgb(55, 20, 54);
+}
+.card7 {
+  color:hotpink;
+  text-align: center;
+  padding: 40px 20px;
+ border: 2px solid black;
+  width: 250px;
+  height: 200px;
+  background-position: center;
+  margin: 10PX;
+  background-color: rgb(229, 219, 75);
+}
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #f0f0f0;
+  color: #333;
+  border-radius: 8px;
+  cursor: pointer;
+ 
+}
+button:hover {
+  background: linear-gradient(45deg, #ff6b6b, #4d96ff);
+  color: white;
+}
+.card:hover {
+  background-image: url('../assets/Alipiri.jpeg');
+ 
+  background-size: contain;
+
+}
+.card1:hover {
+  background-image: url('../assets/Goa-Nightlife.jpg');
+  
+  background-size: contain;
+
+
+}
+.card2:hover {
+  background-image: url('../assets/manali.jpg');
+  
+  background-size: contain;
+
+}
+.card3:hover {
+  background-image: url('../assets/kerala.jpg');
+  
+  background-size: contain;
+
+}
+.card4:hover {
+  background-image: url('../assets/rishikesh.jpg');
+  
+  background-size: contain;
+
+}
+.card5:hover {
+  background-image: url('../assets/Taj_Mahal_\(Edited\).jpeg.webp');
+  
+  background-size: contain;
+
+}
+.card6:hover {
+  background-image: url('../assets/jaipur.jpg');
+  
+  background-size: contain;
+
+}
+.card7:hover {
+  background-image: url('../assets/darjeeling.jpg');
+  
+  background-size: contain;
+
+}
